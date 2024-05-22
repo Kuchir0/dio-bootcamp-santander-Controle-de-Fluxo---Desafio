@@ -1,1 +1,3 @@
-# dio-bootcamp-santander-Controle-de-Fluxo---Desafio
+# Sistema Contador
+
+explorando cenários com fluxos condicionais, repetições e excepcionais.
